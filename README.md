@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramazan Yıldırım</h1>
 <h3 align="center">A software engineering student from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif">
 
 - 🌱 I’m currently learning **data science**
 
